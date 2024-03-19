@@ -7,6 +7,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIBIYES&card_width=230&layout=compact&langs_count=10&hide_border=true&hide=Assembly&custom_title=Most%20Used%20Languages%20~" />
 
 ## About Me 🤪
+</br>
 **一位学的很杂的cv工程师**
 **email:mousehaozi@outlook.com**
 
