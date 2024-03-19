@@ -1,25 +1,59 @@
-## Hi I'm BIBIYES <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<h1 align="center">Hi 👋, I'm BIBIYES</h1>
+<h3 align="center">Welcome To My Github ~</h3>
+</br>
 
-I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+## Github Stats 🌐
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=BIBIYES&include_all_commits=true&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&hide_border=true&hide_title=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIBIYES&card_width=230&layout=compact&langs_count=10&hide_border=true&hide=Assembly&custom_title=Most%20Used%20Languages%20~" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+## About Me 🤪
+**Space Time (?~?): 名 Space，姓 Time，啥都会一点，但又啥都不会；孩在上鞋，但又不一直都上；是独立开发者，但又不完全是；擅长 .Net 和 Vue，但又不是特别擅长**
 
-## ⚡ Technologies
+## Navigation 🧭
+* **SpaceTime Center: [https://www.spacetimee.xyz](https://www.spacetimee.xyz) (开源URL: [https://github.com/SpaceTimee/SpaceTimee](https://github.com/SpaceTimee/SpaceTimee)) (主页)**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+* **SpaceTime Blog: [https://blog.spacetimee.xyz](https://blog.spacetimee.xyz) (开源URL: [https://github.com/SpaceTimee/SpaceTime-Blog](https://github.com/SpaceTimee/SpaceTime-Blog)) (博客)**
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=BIBIYES&count_private=true&show_icons=true&include_all_commits=true)
+* SpaceTime Spare Blog: [https://www.cnblogs.com/spacetime](https://www.cnblogs.com/spacetime) (备用博客，已很久未维护)
 
+* SpaceTime DeputyBase: NULL (微信公众号，太久没用被冻结了...)
+
+## Doing List 📗
+* 制作 **Ona Pix (开源URL: [https://github.com/SpaceTimee/Ona-Pix](https://github.com/SpaceTimee/Ona-Pix)) (WPF)**
+
+* 制作 **Vight Note (开源URL: [https://github.com/SpaceTimee/Vight-Note](https://github.com/SpaceTimee/Vight-Note)) (Winform)**
+
+* 制作 **Sheas Cealer (开源URL: [https://github.com/SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer)) (WPF)**
+
+* 制作 **Ona Dop (开源URL: [https://github.com/SpaceTimee/Ona-Dop](https://github.com/SpaceTimee/Ona-Dop)) (Vue)**
+
+* 制作 **Sheas Dop (开源URL: [https://github.com/SpaceTimee/Sheas-Dop](https://github.com/SpaceTimee/Sheas-Dop)) (WPF)**
+
+* 制作 **Vight Univerter (开源URL: [https://github.com/SpaceTimee/Vight-Univerter](https://github.com/SpaceTimee/Vight-Univerter)) (Xamarin)**
+
+* 制作 **Sheas Unlocker (开源URL: [https://github.com/SpaceTimee/Sheas-Unlocker](https://github.com/SpaceTimee/Sheas-Unlocker)) (Winform)**
+
+* 制作 **Frok NextChat (开源URL: [https://github.com/SpaceTimee/Frok-NextChat](https://github.com/SpaceTimee/Frok-NextChat)) (Next)**
+
+* 制作 **Frok ClashN (开源URL: [https://github.com/SpaceTimee/Frok-ClashN](https://github.com/SpaceTimee/Frok-ClashN)) (WPF)**
+
+* 维护 **无限宝第三方插件安装器 (开源URL: [https://github.com/SpaceTimee/Vizpower-Plugin-Installer](https://github.com/SpaceTimee/Vizpower-Plugin-Installer)) (WPF)**
+
+## To-Do List 📒
+* 制作 Suri 系列
+
+* 继续学习 Unity
+
+## Did List 📕
+* 单机狼人杀 (开源URL: [https://github.com/SpaceTimee/Console-Werewolf](https://github.com/SpaceTimee/Console-Werewolf)) (C++ Console)
+
+* 一些用 Scratch 制作的小游戏 (弃坑多年，年久失修，大多已不能正常运行，故不在此展示)
+
+## Contact Me 📢
+* **邮箱: Zeus6_6@163.com (推荐)**
+
+* Github: [https://github.com/SpaceTimee](https://github.com/SpaceTimee) (Gimme Fork or Star?)
+
+* Bilibili: [https://space.bilibili.com/171416312](https://space.bilibili.com/171416312) (别看啦，啥都木有)
+
+•ᴗ•
