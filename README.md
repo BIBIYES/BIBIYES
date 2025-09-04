@@ -13,6 +13,10 @@
     </td>
   </tr>
 </table>
-
+## skill ✨
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,ts,js,java,nodejs,threejs,css,sass" />
+<img src="https://skillicons.dev/icons?i=pr,ps" />
+</p>
 ## About ME 🐭
 大学毕业了，外包被老板压榨想进厂
