@@ -20,7 +20,7 @@
 </p>
 
 ## devtools 🛠️
-<img src="https://skillicons.dev/icons?i=pr,ps,ae,idea,caddy,redis,mysql,obsidan,npm,git" />
+<img src="https://skillicons.dev/icons?i=pr,ps,ae,idea,vscode,caddy,redis,mysql,obsidan,npm,git" />
 
 ## AboutMe 🐭
 大学毕业了，在干外包。
