@@ -16,11 +16,11 @@
 
 ## skill ✨
 <p>
-<img src="https://skillicons.dev/icons?i=react,vue,ts,js,java,nodejs,threejs,css,sass" />
+<img src="https://skillicons.dev/icons?i=vue,ts,js,java,python,nodejs,threejs,css,sass,html,vite,pinia" />
 </p>
 
-## devtools ✨
-<img src="https://skillicons.dev/icons?i=pr,ps,idea" />
+## devtools 🛠️
+<img src="https://skillicons.dev/icons?i=pr,ps,ae,idea,caddy,redis,mysql,obsidan,npm,git" />
 
 ## AboutMe 🐭
 大学毕业了，在干外包。
