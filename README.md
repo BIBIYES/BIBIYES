@@ -16,7 +16,7 @@
 
 ## skill ✨
 <p>
-<img src="https://skillicons.dev/icons?i=vue,ts,js,java,python,nodejs,threejs,css,sass,html,vite,pinia" />
+<img src="https://skillicons.dev/icons?i=vue,ts,js,java,python,nodejs,css,sass,html,vite,pinia" />
 </p>
 
 ## devtools 🛠️
